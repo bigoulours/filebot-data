@@ -4152,6 +4152,7 @@ SLOT
 SLOW
 SlowHD
 SLRS
+SlyFox
 SM-Subs
 SM_LoC
 SMAHD
@@ -4324,6 +4325,7 @@ SUBSTANCE
 SUBTiTLES
 Subtox
 SUBZERO
+successfulcrab
 SUJAIDR
 SuKo
 SumVision
