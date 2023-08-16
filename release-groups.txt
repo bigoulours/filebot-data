@@ -161,6 +161,7 @@ AdBlue
 ADC-Elites
 ADC-Germany
 ADC2060
+ADE
 ADHD
 AdiT
 aDL
@@ -886,6 +887,7 @@ CM
 CM8
 Cman
 CMaRioG
+CMCT
 CME
 CMRG
 CMS
@@ -2532,6 +2534,7 @@ km
 KN3
 knifesharp
 KNIGHTY1973
+KNiVES
 KnK
 KnKF-Doremi
 KNOC
@@ -3466,6 +3469,7 @@ PI
 PiA
 Pianex
 piepHD
+PiGNUS
 PiKACHU
 Pikanet128
 PiLAF
@@ -4766,7 +4770,7 @@ VanRay
 varo
 VARYG
 Vawn
-vcb-studio
+VCB-Studio
 VCDVaULT
 VCF
 VCORE
