@@ -471,6 +471,7 @@ Actionkomödie
 Actionthriller
 Addic7ed.com
 aGGr0
+Airing.Anime
 AMC
 Anaglyph
 Animations
@@ -499,6 +500,7 @@ btarena.org
 By.Cool.Release
 C.orig
 Castellano
+Catchall
 CBC
 CD\D?\d+
 Channel\D?\d+
@@ -559,6 +561,7 @@ Featurettes
 FileBot
 FileMe
 Final.Cut
+Finished.DLs
 FIXED
 Fra
 FRE
