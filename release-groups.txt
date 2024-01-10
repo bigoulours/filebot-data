@@ -351,6 +351,7 @@ APB
 apekat
 APEX
 APPEL
+APRiCiTY
 APT
 APTX
 AQ
@@ -477,6 +478,7 @@ B2B
 B2E
 B4ND1T69
 B5
+B9R
 BA
 Ba-Su
 Baal
@@ -645,6 +647,7 @@ BluZilla
 BMB
 BMF
 BNFs
+BNR
 BnS
 BoB
 BobarBiriyani
@@ -1075,6 +1078,7 @@ DarkHollow
 Darkside.RG
 DARKTIGER
 DARM
+DART
 DaScubaDude
 DASH
 DATS
@@ -1471,6 +1475,7 @@ EU
 EucHD
 EuchHD
 euHD
+EUPHORiA
 EuReKA
 EUROPA
 EUSTASS
@@ -1704,6 +1709,7 @@ FUBUKI
 FUCT
 FUD
 FUDGiE
+FULCRUM
 FULLHD
 FULLMETAL
 FULLSIZE
@@ -1743,6 +1749,7 @@ GALACTiCA
 Galator
 GalaxyRG
 GalaxyRG265
+GalaxyTV
 GanbaRaw
 GANGO
 GANOOL
@@ -1809,6 +1816,7 @@ GHS
 GI
 GiGAS
 GiMCHi
+GIMINI
 GiNJi
 ginseng
 GIRAYS
@@ -2038,6 +2046,7 @@ HDMI
 HDMike
 HDmonSK
 HDOlimpo
+HDPhoenix
 HDPLANET
 HDQ
 HDReactor
@@ -2220,6 +2229,7 @@ icn
 iCO
 iCV-MIRCrew
 Icyguy
+ICYMI
 iD
 IDE
 Idi0T
@@ -2376,6 +2386,7 @@ Jav-Fans
 JAVLiU
 JaYC
 JAZZYO
+JBee
 JBENT
 JBS
 JCH
@@ -2433,6 +2444,7 @@ justblthings-aarinfantasy
 JustHD
 JustSubs
 JustWatch
+JVC
 JYK
 JySzE
 JZ
@@ -2492,6 +2504,7 @@ KEG
 KEKKAI
 keltz
 Kemo-Subs
+KeNDALL
 KENOBI
 KESH
 KETTLE
@@ -2671,6 +2684,7 @@ leewee
 Leffe
 LEGEND
 LEGi0N
+LEGION
 LeON
 LeRalouf
 Lesnick
@@ -3199,6 +3213,7 @@ Nightspeed
 NiHiL
 nii-sama
 niizk
+nIk
 nik2306
 NikonXP
 nikt0
@@ -3206,6 +3221,7 @@ niku
 NILE
 NIMA4K
 Nimu
+NINJACENTRAL
 NinjaPanda
 NiP
 nipah-subs
@@ -3227,6 +3243,7 @@ NnH
 NNM
 nnr
 No.TK.BKF
+No1
 NO1CARES
 NO1KNOWS
 NODLABS
@@ -3250,6 +3267,7 @@ NORDIC.RELEASE
 NORDiCHD
 NORETAiL
 NOreVENUE
+norite
 NorTV
 norush
 NoSCR
@@ -3402,6 +3420,7 @@ OurTV
 OUTBREAK
 OUTDATED
 OUTERSPACE
+OUTFiT
 OUZO
 Ov3rl1f3
 Ov3rload
@@ -3555,8 +3574,10 @@ POCHER
 POD
 PODO
 POE
+PoF
 POH
 POKE
+POKER
 POKERUS
 POLAR
 POLARIS
@@ -3593,6 +3614,7 @@ PRIPPS
 prithwi
 PrivateHD
 PRiViLEGED
+prldm
 PrLund
 Procrastinating
 PROD
@@ -3625,6 +3647,7 @@ PSYPHER
 PTA
 PTBR
 PTer
+PTHD
 PTHome
 Pti
 PTMiR
@@ -3717,6 +3740,7 @@ RAiNCOAT
 RAiNDEER
 Raizel
 RAKUDA
+RAMSEiS
 RANDi
 Ranvijay
 Raoul
@@ -3895,6 +3919,7 @@ RS-F
 RsF
 RSG
 RTA
+RTARHD
 RtD
 RTFM
 RTL
@@ -4187,6 +4212,7 @@ SLikt
 SLiSU
 SLIVE
 SLM
+SLN
 SLO
 SLOMO
 SLOT
@@ -4225,6 +4251,7 @@ SoCkS
 SOF
 SOFCJ-Raws
 Softfeng
+SOIL
 SoKa
 SOL
 SOLA
@@ -4368,6 +4395,7 @@ SUBTiTLES
 Subtox
 SUBZERO
 successfulcrab
+SUiCiDAL
 SUJAIDR
 SuKo
 SumVision
@@ -4441,6 +4469,7 @@ TANUKI
 TAoE
 Tap24
 TAPpika
+TAR
 TARGET
 TaS0
 Tass
@@ -4547,6 +4576,7 @@ TiCAL
 TiDE
 Tigole
 TiiX
+TIJUCO
 TilMigSelv
 TiMEGOD
 TimeLesSub
@@ -4622,6 +4652,7 @@ TRIAD
 TRiAL
 TRIBAL
 TRiMEDIA
+TRiNiTY
 Tripendicular
 TRiPS
 TRiToN
@@ -4675,17 +4706,20 @@ TURKiSO
 TURMOiL
 TUSAHD
 Tushar
+TUX
 TuZ
 Tv21
 TV2LAX9
 TV4A
 TVA
+TVADDiCT
 TVARCHiV
 TVBeastS
 TVBYEN
 TvD
 TVFi
 TViLLAGE
+TVLiTE
 TVN
 TVNATiON
 TvNORGE
@@ -4725,6 +4759,7 @@ UDC4ALL
 Uderzo
 UDF
 uffowich
+UFO971
 UFW
 UHDCL
 UHI
@@ -5151,12 +5186,14 @@ Zeus-Dias
 Zi.t
 ZigZag
 ZiNC
+ZiTO
 zKr
 ZKuS
 ZMachine
 zman
 ZMB
 ZMG
+ZMNT
 Zodiac
 zog
 zomg
