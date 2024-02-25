@@ -443,9 +443,9 @@
 ^various.files$
 ^VCD$
 ^Video$
+^Video.?s$
 ^VIDEO_TS$
 ^Videoer$
-^Videos$
 ^Volume\D?\d+$
 ^Volumes$
 ^War$
@@ -597,6 +597,7 @@ HQ
 HR
 hr3
 HSBS
+Humax
 HVDVD_TS
 iFH
 info
