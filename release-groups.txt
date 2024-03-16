@@ -2589,7 +2589,7 @@ koishi
 KOLE
 KolHD
 KOMPOST
-Kontrast
+KONTRAST
 KonzillaRG
 KooKoo
 KOR
@@ -2673,6 +2673,7 @@ LAZARUS
 LAZERS
 LAZY
 Lazy-Subs
+LAZYCUNTS
 LazyLily
 LazyMux
 LB
