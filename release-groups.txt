@@ -1235,6 +1235,7 @@ DK
 DKB
 DKiDS
 dkore
+DKV
 DLC
 DLTVR
 DM3000
@@ -3722,6 +3723,7 @@ QSP
 QTZ
 QUACK
 Quali.SlaYer
+QuaSO
 quasome
 quaz
 QuebecRules
