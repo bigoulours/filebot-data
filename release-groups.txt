@@ -2001,6 +2001,7 @@ Hatsuyuki-Suspeedia
 Hatsuyuki-Tsuki
 Hauu
 Hauu~
+HAXE
 HAY
 HAYAKU
 HazardX
@@ -3276,6 +3277,7 @@ NoHaTe
 NOHD
 NOiR
 NOMA
+NOMAD
 nomemes
 NoMore
 Non.Nobis.Translate
@@ -3368,6 +3370,7 @@ oddset
 ODOP
 OEM
 OEM1080
+Oergel
 OFS
 OFT
 OHD
@@ -3490,6 +3493,7 @@ PAPAi
 papi
 PARADOX
 ParanDark
+paranoid06
 PAROVOZ
 PARTICLE
 PartyBoy
@@ -5001,6 +5005,7 @@ WATERS
 WAVEY
 WAYNE
 WBZ
+WDC
 WDYM
 Web4HD
 WEBSTER
