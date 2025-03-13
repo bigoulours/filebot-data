@@ -922,6 +922,7 @@ cNLDVDR
 CnSCG
 CnT
 cntc
+CNY
 CoalGG
 Coalgirls
 CoalGuys
@@ -931,6 +932,7 @@ COC
 COCAIN
 Cocksure
 Codres
+CODSWALLOP
 COiNCiDENCE
 COLB
 coldhell
@@ -1312,6 +1314,7 @@ DragonTeam
 dragsterps
 DrainedDay
 DRAKE
+Draken02
 DrBd
 DrBlaze
 drealiT
@@ -1694,6 +1697,7 @@ FRANKeNCODE
 FRATERNiTY
 FRDS
 FREAKS
+freamon
 FREEDOM
 FREESHIT
 FreeSub-Raw
@@ -2560,6 +2564,7 @@ khoshmard
 KHP
 KHPP
 kHzViD
+KI-AI
 KickFoot
 KICKOFF
 KiD
@@ -3726,6 +3731,7 @@ pTT
 PTTeam
 PublicHD
 PUDDING
+Pudding-sama
 PUFO
 PUKKA
 PUNCH
@@ -4317,6 +4323,7 @@ SNCo
 SNEAK
 SNEAkY
 SnF
+snk
 Sno
 SNOW
 SnowDoN
