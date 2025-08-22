@@ -34,6 +34,7 @@
 ^(?:alb|ara|arm|bul|caf|cat|ces|chi|cnt|cze|dan|deu|dut|ell|eng|fas|fin|fra|fre|ger|gre|heb|hin|hkg|hrv|hun|hye|ice|ind|isl|ita|jpn|kor|lav|lit|mac|may|mkd|msa|mxn|nld|nor|per|pob|pol|por|quc|ron|rum|rus|slk|slo|slv|spa|sqi|srp|swe|tha|tur|ukr|vie|zho|zht)$
 ^(?:Completed|Downloads|Movies|TV\b|FileBot|Temp\b|Ongoing|GoogleDrive).*$
 ^(?:smb-share|afp-volume|sftp|nfs)[:].*$
+^.*(?-i:CLEANED|RENAMED)$
 ^.*(?:Downloads|Movies|Film|\bTV|FileBot|Temp|Transfers|Backup)$
 ^3D$
 ^[\-_+=!@]+\w+[\-_+=!@]*$
@@ -87,7 +88,7 @@
 ^Classic$
 ^Classics$
 ^Clean$
-^cleaned$
+^CLEANED$
 ^Cloud$
 ^CloudStorage$
 ^Code$
@@ -301,11 +302,13 @@
 ^plain$
 ^Plex$
 ^Plex.Approved$
+^PLEX.CLEANED$
 ^Plex.Cloud$
 ^Plex.Cloud.Crypted$
 ^Plex.Film$
 ^Plex.Media$
 ^Plex.Media.Server$
+^PLEX.RENAMED$
 ^Plex.Workshop$
 ^Plexserv$
 ^post.process$
@@ -340,6 +343,7 @@
 ^Remux$
 ^Remuxed$
 ^rename$
+^RENAMED$
 ^Reseed$
 ^resilio$
 ^Review$
