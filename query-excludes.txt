@@ -433,6 +433,7 @@
 ^testRename$
 ^The$
 ^The.Best$
+^The.Complete.Series$
 ^The.TV.Series$
 ^Thriller$
 ^tmp$
@@ -458,6 +459,7 @@
 ^TVCurrent$
 ^TVFetch$
 ^Téléchargements$
+^Téléchargements.complétés$
 ^UFC$
 ^Unfinished$
 ^UnProcessed$
