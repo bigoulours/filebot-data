@@ -10,6 +10,7 @@
 10Laughing
 126811
 128mns
+12GaugeShotgun
 12paNDas
 1337x
 135-!
@@ -423,6 +424,7 @@ AT-X
 AT3N
 Atavus
 ATAX
+ATELiER
 aTerFalleT
 ATHD
 ATiEM
@@ -1059,7 +1061,6 @@ CyCR0
 cypfq
 Cyphanix
 CyTSuNee
-D-Z0N3
 D-A
 D-F
 D-FS
@@ -2125,6 +2126,7 @@ HDX
 HDxT
 HEAT
 HEATHEN
+HeavyWeight
 HebHD
 HECTOR
 HEEL
@@ -2920,6 +2922,7 @@ Marhaba
 MARiNES
 marioBombo
 MarkerB
+MarkII
 martic
 MARTYRS
 Maruchan
@@ -4747,8 +4750,10 @@ TnH
 TnP
 TnTvillage
 To4ka
+TOA
 ToF
 toho
+tokar86a
 Toki-D
 TOKUS
 TOMA
