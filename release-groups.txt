@@ -10,6 +10,7 @@
 10Laughing
 126811
 128mns
+12GaugeShotgun
 12paNDas
 1337x
 135-!
@@ -80,6 +81,7 @@
 6POiNT6
 7aS
 7SiNS
+84n4nYm0u5
 9.GiRL
 9FisH
 9RS
@@ -218,6 +220,7 @@ AiRFORCE
 AiRLiNE
 AiRTV
 AiRWAVES
+AiSHA
 aiTen
 AJ
 AJ8
@@ -258,6 +261,7 @@ ALMIGHTY
 ALRAGUM
 ALTEREGO
 AltHD
+ALTMAN
 AMALGAM
 AmasyHD
 AmateurSubs
@@ -282,6 +286,7 @@ ANBU
 Anbu-Solar
 ANBU.umai
 AnCo.2
+AndreMor
 aNDy
 AndyHD
 ANE
@@ -373,6 +378,7 @@ AQOS
 AR
 ARC
 Archerr
+ARCHIVED
 ARCHiViST
 ArenaBG
 AREY
@@ -423,11 +429,13 @@ AT-X
 AT3N
 Atavus
 ATAX
+ATELiER
 aTerFalleT
 ATHD
 ATiEM
 Atlas47
 atlassubbed
+ATOMiC
 ATP
 ATS
 AtsA
@@ -498,6 +506,7 @@ B9R
 BA
 Ba-Su
 Baal
+BaBeL
 BabyGirl21@BluRG
 BABYLON
 babylonad
@@ -528,6 +537,7 @@ BAMBOOZLE
 BamHD
 BAND1D0S
 Bandi
+BANDOLEROS
 BANKAi
 BaNkeR
 BANZAI
@@ -549,6 +559,7 @@ BAZ
 Bazinga-Subs
 BB
 bb05
+BB85
 Bbb
 BBDvDR
 BBF
@@ -559,6 +570,7 @@ BBW
 BBZ
 bc10
 BDBox
+BdC
 BDClub
 BDFLiX
 BDiSC
@@ -673,6 +685,8 @@ BobarBiriyani
 BoBo
 BoK
 BOKUTOX
+BOLTON08
+BoMeWo
 BONBON
 BONE
 BonG
@@ -697,6 +711,7 @@ BOV
 BOViCE
 BOW
 BoX
+BR
 BraD
 BRADJE
 BRASTEMP
@@ -847,6 +862,7 @@ Chaos-MII
 chaostheory
 CHARA
 charliebartlett
+Chatknight
 CHaWiN
 CHC
 CHD
@@ -940,6 +956,7 @@ COASTER
 COC
 COCAIN
 Cocksure
+CODEFLiX
 Codres
 CODSWALLOP
 COiNCiDENCE
@@ -952,6 +969,7 @@ Commie
 Commie-UNDERWATER
 COMPLIANT
 COMPULSION
+Computron
 CONDITION
 CONDO
 ConePoneFlicks
@@ -966,6 +984,7 @@ CoolGuys
 COOLHD
 COPiUM
 CORE
+CoRK
 cornflower.studio
 corrosive
 COTTAGE
@@ -975,6 +994,7 @@ COUNTERFEIT
 COVEIRO
 COWiSO
 CoWRY
+COYS
 CP
 CPG
 CPT
@@ -1056,10 +1076,10 @@ CYBERMEN
 CyberTyger
 CyC
 CyCR0
+CYNoT
 cypfq
 Cyphanix
 CyTSuNee
-D-Z0N3
 D-A
 D-F
 D-FS
@@ -1094,6 +1114,7 @@ DAFTPUNK
 Dali-Neko
 DAMAN
 DameDesuYo
+DamnUSamsung
 danger2u
 DANGO
 danirl
@@ -1176,6 +1197,7 @@ DELiCiOUS
 DELOS
 DEMAND
 DemiHuman
+demonen
 denpa
 DEPRAViTY
 DEPRiVED
@@ -1259,6 +1281,7 @@ DivXNL-Team
 Diyat
 DiYHDHome
 dizhuwang
+DJK
 DjRobo38
 DJT
 DK
@@ -1269,6 +1292,7 @@ DKV
 DLC
 DLTVR
 DM3000
+dman36g
 dmd
 dmeggs
 DMMA
@@ -1623,6 +1647,7 @@ FiCODVDR
 FiddleGoose
 FiDELiO
 FiDO
+FIEND
 FIG
 Fight-BB
 FiHTV
@@ -1644,6 +1669,7 @@ FiXi0N
 FiXIE
 FIXIT
 FiXTv
+FiZ
 Fizo
 fjall
 FK99
@@ -1784,6 +1810,8 @@ FYIWDWYTM
 FZERO
 FzTeam
 G.AX
+G0AT
+g0bbles
 g0tm1Lk
 G3LHD
 G3N3
@@ -1948,6 +1976,7 @@ GrimRipper
 GRiMRPR
 GRiND
 GriOTS
+GRM
 GRMV
 GROND
 GrupoCustomU
@@ -2029,6 +2058,7 @@ HappiTeam-YnK
 Hark0n
 HARMY
 HarrHD
+HARRY
 Harunatsu
 HashMiner
 HatchetGear
@@ -2125,6 +2155,7 @@ HDX
 HDxT
 HEAT
 HEATHEN
+HeavyWeight
 HebHD
 HECTOR
 HEEL
@@ -2225,6 +2256,7 @@ HOSTiLE
 HOTLiPS
 HOVAC
 HOWL
+Hoyts
 HP
 HP4F
 HPY
@@ -2268,6 +2300,7 @@ HYDROGEN
 HYFS
 hymen
 HYPE
+HYPERA
 HZ
 HīkariRaīders
 I-F
@@ -2324,6 +2357,7 @@ iLoveHD
 iLS
 imacRuel1
 iMAGiNE
+Imaginist
 iMBT
 iMCARE
 IMDTHS
@@ -2394,6 +2428,7 @@ ipeerstein
 iPlayerTV
 iRB
 iRoNiCs
+ISA
 iSD
 iseveryusernametaken
 iSG
@@ -2489,6 +2524,7 @@ Jozzep
 JPTVclub
 JRabbit
 JS
+JTAW
 jth
 jTV
 Judas
@@ -2724,6 +2760,7 @@ Lamonae
 Langbard
 Langbard-CTTC
 langeect
+Lannister
 LAP
 LAPUMiA
 LAPUMiAFiLMES
@@ -2766,6 +2803,7 @@ LF
 LFF
 LGC
 LGLuX
+LHD
 LiBERTY
 LiBRARiANS
 Licca
@@ -2797,6 +2835,7 @@ LizardSquad
 LKRG
 LL420
 LLL
+LM
 LMAO
 LMG
 LMK
@@ -2897,6 +2936,7 @@ MAGiCAL
 MAGiCDRAGON
 MagicStar
 MAGiCViBE
+MAGNOLIA
 MAHOU
 MAiN
 MainEvent
@@ -2913,6 +2953,7 @@ MandR
 MANGACiTY
 MANHOLE
 manhy
+MANiAC
 MANNING
 Mantas
 MapleClub
@@ -2920,6 +2961,7 @@ Marhaba
 MARiNES
 marioBombo
 MarkerB
+MarkII
 martic
 MARTYRS
 Maruchan
@@ -3014,7 +3056,9 @@ MiJO
 Mikoto
 MiLK
 MiLLENiUM
+MiM
 MiMESiS
+MiMiC
 MiND
 MiNDTHEGAP
 Mindus
@@ -3270,6 +3314,7 @@ NewMov
 NewStudio
 NewSubs
 NeWTeaM
+NeX
 NextBit
 NEXTGEN
 NEZU
@@ -3455,11 +3500,14 @@ OlaM
 old-tejo
 OLDDAWGS
 OldsMan
+OldT
+OLDTiME
 OlLanDGroup
 OlSTiLe
 OMA
 Omake
 omar.hidan
+OMEGA
 OMER
 OMERTA
 OmertaHD
@@ -3560,6 +3608,7 @@ Pankhabd
 panos
 Pantsu
 PANTY
+PANTYHOSE
 PaODEQUEiJO
 PAPAi
 papi
@@ -3610,6 +3659,7 @@ PHF
 Philanthropy_Sekai
 philosophy-raws
 PHiN
+PHMHD
 PHOBOS
 PHOCiS
 PHOENiX
@@ -3622,6 +3672,7 @@ PI
 PiA
 Pianex
 piepHD
+PiG30N
 PiGNUS
 PiKACHU
 Pikanet128
@@ -3854,6 +3905,8 @@ RAiNCOAT
 RAiNDEER
 Raizel
 RAKUDA
+Rakuv01
+RaMDaY
 RAMSEiS
 RANDi
 Ranvijay
@@ -3870,6 +3923,7 @@ Rasetsu
 RastafarianTargaryen
 RATPACK
 Raul07
+RAV1NE
 RavenCrow
 RaViSH
 RAWKiNS
@@ -3908,6 +3962,7 @@ REBELS
 RebelSD
 ReCult
 RedBlade
+RedDeadEncode
 ReDe@mer
 RedFox109e
 RedHands
@@ -3946,6 +4001,7 @@ REPTiLE
 REPUBLIC
 REPULSiON
 REQiT
+ReQuEsT
 ReS
 RESiSTANCE
 RESubs
@@ -3961,6 +4017,7 @@ REVTEAM
 REWARD
 RFSD
 RFtA
+RFX
 rG
 RH
 RHD
@@ -3981,6 +4038,7 @@ RIPinpieces
 RIPLEY
 RiplleyHD
 Ripp3rX
+RiPPERSDELiGHT
 RippingGods
 RippleSubs
 RiPRG
@@ -4226,6 +4284,7 @@ SharpHD
 sharpysword
 Shayo
 Shayo.RS-F
+SHAZAM
 SHD
 SHDXXX
 SHeNTo
@@ -4284,12 +4343,14 @@ SiLU
 Silver.RG
 SiMbA
 SiMPLE
+Simpleton
 SimplyReleaseS
 SiN
 SINISTER
 SiNNERS
 SiQ
 Sir.Paul
+SirHooDz
 SiRiUs.sHaRe
 SiSO
 SiTiN
@@ -4436,6 +4497,7 @@ SPRiNTER
 SpS
 SpunkTV
 SPYC
+SQS
 SQsR
 squalor
 SQUiZZiEs
@@ -4473,6 +4535,7 @@ Stealthmaster
 Steins;Sub
 Stelks
 STELLA
+STELLAR
 STFU
 STH
 Sticky83
@@ -4480,6 +4543,7 @@ Stickya
 stieg
 StillChoosing
 stiller
+STiNG
 STiNGER
 STiNX
 Stitch_Encodes
@@ -4574,6 +4638,7 @@ T-N
 T-S
 T-Subs
 t00ng0d
+T00thLeSS
 t09
 T0M
 T0nK4
@@ -4582,6 +4647,7 @@ T33V33
 t3nzin
 T3RR0R1STS
 T4H
+T4il
 T6D
 T6R
 Ta@
@@ -4614,6 +4680,7 @@ TASTETV
 TastyMelon
 TATUGAMESCF
 Taurine
+TAURUS
 TAXES
 TayTO
 TB
@@ -4683,6 +4750,7 @@ theAmresh
 TheBatman
 THEBEST
 TheBigBeautifulRelease
+TheCheshireCat
 TheCure
 THeeND
 TheFarm
@@ -4726,6 +4794,7 @@ Tipota
 TiPToP
 TiT
 TiTANS
+TiTTE
 tixe
 TjHD
 TK
@@ -4747,8 +4816,10 @@ TnH
 TnP
 TnTvillage
 To4ka
+TOA
 ToF
 toho
+tokar86a
 Toki-D
 TOKUS
 TOMA
@@ -4798,6 +4869,7 @@ TRiPS
 TRiToN
 triumphh
 TRL
+Troidex
 TROJAN
 TrollHD
 TrollUHD
@@ -4930,6 +5002,7 @@ UNFIrED
 UNiQUE
 UNiT
 UNiTaiL
+UNITED24
 UNiTY
 UNiVERSUM
 UnKn0wn
@@ -4981,6 +5054,7 @@ VAiN
 VALHALLA
 VALiOMEDiA
 VALKYRiA
+VaLTiEL
 VALUE
 VAMPS
 Vanillapunk
@@ -5091,6 +5165,7 @@ WaCkOs
 WADU
 WAF
 Wakku
+WaLKAFaLKA
 Walküre
 WaLMaRT
 WALT
@@ -5203,6 +5278,7 @@ XANOR
 xBay
 Xbytes
 XC
+xCCX
 XCOPYHD
 xD2V
 xDR
@@ -5244,6 +5320,7 @@ XuN
 xV
 XviDEkolb
 XviK
+xwMaRio
 XWT
 xxon
 XxUnkn0wnxX
@@ -5335,6 +5412,7 @@ zenki
 ZER0
 ZeRO
 Zero-Raws
+Zero00
 ZeroEffort
 ZeroTwo
 ZEST
