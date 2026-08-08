@@ -189,6 +189,7 @@
 ^folder$
 ^freebox$
 ^Fresh$
+^FROM$
 ^FTP$
 ^fuck$
 ^Game.Show$
