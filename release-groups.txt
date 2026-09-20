@@ -81,6 +81,7 @@
 6POiNT6
 7aS
 7SiNS
+7VFr33104D
 84n4nYm0u5
 9.GiRL
 9FisH
@@ -397,6 +398,7 @@ ARMO
 AROMA
 ARR
 ARROW
+ArteLabo
 ARTHOUSE
 ARTiCUN0
 ArtSubs
@@ -885,6 +887,7 @@ ChiLLuM
 CHILLY
 Chinurarete
 CHIPTEC
+CHORTLE
 Chotab
 CHRONiCLES
 CHRONO
@@ -2329,6 +2332,7 @@ iCV-MIRCrew
 Icyguy
 ICYMI
 iD
+IDC
 IDE
 Idi0T
 iDiB
@@ -4223,6 +4227,7 @@ SChiZO
 SCHNeCKHOUSe
 SCiENTOLOGY
 SCONES
+SCOPE
 SCORN
 SCP-2223
 Scratch404
@@ -4411,6 +4416,7 @@ SLOT
 SLOW
 SlowHD
 SLRS
+Slurpuff
 SlyFox
 SM-Subs
 SM737
@@ -4766,6 +4772,7 @@ TheFarm
 theHH
 theincognito
 TheKangaroo
+themoviesboss
 TheNewSquad
 THENiGHTMARE
 THENiGHTMAREiNHD
@@ -5211,6 +5218,7 @@ WESEN
 WEST
 WESTSiDE
 WGZ
+WH
 WHATELSE
 WhatsBeyond
 WHEELS
